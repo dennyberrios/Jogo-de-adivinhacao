@@ -15,7 +15,7 @@ var randomFalse = [
   "url('./Assets/img/1dSu.gif')",
   "url('./Assets/img/tobey-cry.gif')",
   "url('./Assets/img/8mx.gif')",
-  "url('./Assets/img/2bd.gif')",
+  "url('./Assets/img/2Bd.gif')",
   "url('./Assets/img/Oam.gif')",
   "url('./Assets/img/10dq.gif')"]
 var randomTelaPrincipal = [
